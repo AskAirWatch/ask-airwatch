@@ -115,7 +115,7 @@ Next we will configure the AWS Lambda function that will host the logic for our 
 
  2. Sign in to the AWS Console
 
-  ![](https://s3.amazonaws.com/lantern-code-samples-images/how-to/aws_login.png)
+  ![](https://drive.google.com/open?id=0B2IA2Y2pnQJzOFl4NVZxSnVvc1k)
 
  3. It can sometimes take a couple of minutes for your new AWS account to go live. You will receive an e-mail when your account is active.
 

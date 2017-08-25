@@ -1,0 +1,73 @@
+**Copy and Paste the below content into the Sample Utterances section of the interaction model.
+
+TotalDevices Ask AirWatch what is my device summary
+TotalDevices Ask AirWatch what's my device summary
+TotalDevices Ask AirWatch device summary
+TotalDevices Ask AirWatch environment summary
+TotalDevices Ask AirWatch what is my environment summary
+TotalDevices Ask AirWatch what's my environment summary
+TotalDevices Ask AirWatch tell me about my environment
+DevicesSummary Ask AirWatch what is the total number of {DeploymentDetail} devices
+DevicesSummary Ask AirWatch what's the total number of {DeploymentDetail} devices
+DevicesSummary Ask AirWatch How many {DeploymentDetail} devices do I have
+DevicesSummary Ask AirWatch Tell me the number of {DeploymentDetail} devices do I have
+DevicesSummary Ask AirWatch Tell me how many {DeploymentDetail} devices do I have
+DevicesSummary Ask AirWatch Give me the number of  {DeploymentDetail} devices do I have
+DevicesSummary Ask AirWatch Give me how many {DeploymentDetail} devices do I have
+DevicesSummary Ask AirWatch {DeploymentDetail}
+DevicesSummary Ask AirWatch count how many {DeploymentDetail} devices I have
+DevicesSummary Ask AirWatch What is the number of {DeploymentDetail} devices in the environment
+DevicesSummary Ask AirWatch What's the number of {DeploymentDetail} devices in the environment
+InternalApp Ask AirWatch What is the status of the internal application {InternalAppDetail}
+InternalApp Ask AirWatch What is the status of the internal app {InternalAppDetail}
+InternalApp Ask AirWatch What's the status of the internal application {InternalAppDetail}
+InternalApp Ask AirWatch What's the status of the internal app {InternalAppDetail}
+InternalApp Ask AirWatch How is the deployment of the internal application {InternalAppDetail}
+InternalApp Ask AirWatch How is the deployment of the internal app {InternalAppDetail}
+InternalApp Ask AirWatch Tell me about the internal application {InternalAppDetail}
+InternalApp Ask AirWatch Tell me about the internal app {InternalAppDetail}
+PublicApp Ask AirWatch What is the status of the public application {PublicAppDetail}
+PublicApp Ask AirWatch What is the status of the public app {PublicAppDetail}
+PublicApp Ask AirWatch What's the status of the public application {PublicAppDetail}
+PublicApp Ask AirWatch What's the status of the public app {PublicAppDetail}
+PublicApp Ask AirWatch How is the deployment of the public application {PublicAppDetail}
+PublicApp Ask AirWatch How is the deployment of the public app {PublicAppDetail}
+PublicApp Ask AirWatch Tell me about the public application {PublicAppDetail}
+PublicApp Ask AirWatch Tell me about the public app {PublicAppDetail}
+VPPApp Ask AirWatch What is the status of the purchased application {VPPAppDetail}
+VPPApp Ask AirWatch What is the status of the purchased app {VPPAppDetail}
+VPPApp Ask AirWatch What's the status of the purchased application {VPPAppDetail}
+VPPApp Ask AirWatch What's the status of the purchased app {VPPAppDetail}
+VPPApp Ask AirWatch How is the deployment of the purchased application {VPPAppDetail}
+VPPApp Ask AirWatch How is the deployment of the purchased app {VPPAppDetail}
+VPPApp Ask AirWatch Tell me about the purchased application {VPPAppDetail}
+VPPApp Ask AirWatch Tell me about the purchased app {VPPAppDetail}
+GetVersion Ask AirWatch what version am I
+GetVersion Ask AirWatch what version are you running
+GetVersion Ask AirWatch what version am I running
+GetVersion Ask AirWatch what version is AirWatch
+GetVersion Ask AirWatch what version are you
+SystemAPIUp Ask AirWatch is the API up
+SystemAPIUp Ask AirWatch is the API server up
+SystemAPIUp Ask AirWatch is the API healthy
+SystemAPIUp Ask AirWatch is the API server healthy
+SystemDSUp Ask AirWatch is the Device Services server up
+SystemDSUp Ask AirWatch is the DS server up
+SystemDSUp Ask AirWatch is the DS healthy
+SystemDSUp Ask AirWatch is the Device Services server healthy
+SystemDSUp Ask AirWatch is the Device Services healthy
+SystemDSUp Ask AirWatch is the Device Services up
+SystemSEGUp Ask AirWatch is the Secure Email Gateway server up
+SystemSEGUp Ask AirWatch is the SEG server up
+SystemSEGUp Ask AirWatch is the SEG healthy
+SystemSEGUp Ask AirWatch is the Secure Email Gateway server healthy
+SystemSEGUp Ask AirWatch is the Secure Email Gateway healthy
+SystemSEGUp Ask AirWatch is the Secure Email Gateway up
+DevicesDaysAgo Ask AirWatch how many devices have checked in the past {Days} day
+DevicesDaysAgo Ask AirWatch how many devices have checked in the past {Days} days
+DevicesDaysAgo Ask AirWatch how many devices have checked in the last {Days} day
+DevicesDaysAgo Ask AirWatch how many devices have checked in the last {Days} days
+DevicesDaysAgo Ask AirWatch how many devices have been seen in the past {Days} day
+DevicesDaysAgo Ask AirWatch how many devices have been seen in the past {Days} days
+DevicesDaysAgo Ask AirWatch how many devices have been seen in the last {Days} day
+DevicesDaysAgo Ask AirWatch how many devices have been seen in the last {Days} days

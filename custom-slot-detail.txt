@@ -1,0 +1,49 @@
+1. Type: LIST_OF_DEPLOYMENT_DETAIL
+	Values: 
+		windows mobile
+		apple ios
+		android
+		windows pc
+		apple osx
+		windows phone eight
+		windows rt
+		blackberry ten
+		apple tv
+		chromebook
+		corporate dedicated
+		corporate shared
+		employee owned
+		undefined
+		compromised
+		no passcode
+		not encrypted
+		enrolled
+		unenrolled
+		registered
+
+2. Type: LIST_OF_INTERNAL_APPS
+	Values: 
+		Boxer
+		InternalAppA
+
+3. Type: LIST_OF_PUBLIC_APPS
+	Values: 
+		Candy Crush
+		Boxer
+
+4. Type: LIST_OF_VPP_APPS
+	Values:
+		airwatch
+		agent
+
+5. Type: LIST_OF_DAYS
+	Values:
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9

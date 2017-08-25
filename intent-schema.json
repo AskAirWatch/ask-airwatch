@@ -1,0 +1,73 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "TotalDevices"
+    },
+    {
+      "slots": [
+        {
+          "name": "DeploymentDetail",
+          "type": "LIST_OF_DEPLOYMENT_DETAIL"
+        }
+      ],
+      "intent": "DevicesSummary"
+    },
+    {
+      "slots": [
+        {
+          "name": "InternalAppDetail",
+          "type": "LIST_OF_INTERNAL_APPS"
+        }
+      ],
+      "intent": "InternalApp"
+    },
+    {
+      "slots": [
+        {
+          "name": "PublicAppDetail",
+          "type": "LIST_OF_PUBLIC_APPS"
+        }
+      ],
+      "intent": "PublicApp"
+    },
+    {
+      "slots": [
+        {
+          "name": "VPPAppDetail",
+          "type": "LIST_OF_VPP_APPS"
+        }
+      ],
+      "intent": "VPPApp"
+    },
+    {
+      "intent": "GetVersion"
+    },
+    {
+      "intent": "SystemAPIUp"
+    },
+    {
+      "intent": "SystemDSUp"
+    },
+    {
+      "intent": "SystemSEGUp"
+    },
+    {
+      "slots": [
+        {
+          "name": "Days",
+          "type": "LIST_OF_DAYS"
+        }
+      ],
+      "intent": "DevicesDaysAgo"
+    }
+  ]
+}
