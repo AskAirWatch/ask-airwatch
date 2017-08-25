@@ -14,7 +14,6 @@ DevicesSummary Ask AirWatch Tell me the number of {DeploymentDetail} devices do 
 DevicesSummary Ask AirWatch Tell me how many {DeploymentDetail} devices do I have
 DevicesSummary Ask AirWatch Give me the number of  {DeploymentDetail} devices do I have
 DevicesSummary Ask AirWatch Give me how many {DeploymentDetail} devices do I have
-DevicesSummary Ask AirWatch {DeploymentDetail}
 DevicesSummary Ask AirWatch count how many {DeploymentDetail} devices I have
 DevicesSummary Ask AirWatch What is the number of {DeploymentDetail} devices in the environment
 DevicesSummary Ask AirWatch What's the number of {DeploymentDetail} devices in the environment
